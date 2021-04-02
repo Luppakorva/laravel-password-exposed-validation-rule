@@ -1,9 +1,9 @@
 {
-    "name": "divineomega/laravel-password-exposed-validation-rule",
+    "name": "luppakorvaa/laravel-password-exposed-validation-rule",
     "description": "Laravel validation rule that checks if a password has been exposed in a data breach",
     "type": "library",
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "divineomega/password_exposed": "^3.0.1",
         "illuminate/contracts": "^5.1||^6.0||^7.0||^8.0"
     },
