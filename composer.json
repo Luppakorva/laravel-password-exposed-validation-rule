@@ -1,5 +1,5 @@
 {
-    "name": "luppakorvaa/laravel-password-exposed-validation-rule",
+    "name": "luppakorva/laravel-password-exposed-validation-rule",
     "description": "Laravel validation rule that checks if a password has been exposed in a data breach",
     "type": "library",
     "require": {
